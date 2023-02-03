@@ -1,0 +1,60 @@
+
+.caixa_form
+{
+   border: 2px solid  rgb(187, 40, 40);
+   height: 60%;
+   width: 50%;
+   position: absolute;
+   margin-left: 200px;
+}
+
+.form
+{
+   padding: 10%;
+}
+
+.form1 
+{
+   padding: 8px;
+   margin-top: 10px;
+}
+.form2 
+{
+   padding: 8px;
+}
+
+.form3 
+{
+   padding: 8px;
+}
+
+.btn input
+{
+   color: blue;
+   padding: 10px;
+   margin-left: 400px;
+   
+}
+
+
+/* estilizaçao do formulario php  */
+.caixa_form_php
+{
+    border: 2px solid  orange;
+   height: 60%;
+   width: 50%; 
+   position: absolute;
+   margin-left: 200px;
+}
+
+.caixa_form_php ,  h1 , h2 ,h3
+{
+   margin-left: 10px;
+
+}
+
+ 
+
+ 
+
+ 
